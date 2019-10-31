@@ -11,6 +11,7 @@
     "zipkin": "^0.19.1"
   },
   "devDependencies": {
-    "@types/node": "^8.0.44"
+    "@types/node": "^8.10.58",
+    "typescript": "^3.6.4"
   }
 }
